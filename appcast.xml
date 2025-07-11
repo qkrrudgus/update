@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>두부님의 앱 업데이트</title>
+    <link>https://qkrwlgns.github.io/update/appcast.xml</link>
+    <description>두부님의 앱이 자라나는 공간입니다</description>
+    <language>ko</language>
+    <item>
+      <title>앱 버전 1.0.0</title>
+      <sparkle:releaseNotesLink>https://qkrwlgns.github.io/update/releasenotes.html</sparkle:releaseNotesLink>
+      <pubDate>Sat, 13 Jul 2025 09:00:00 +0900</pubDate>
+      <enclosure url="https://qkrwlgns.github.io/update/DubuApp_1.0.0.zip"
+                 sparkle:version="1.0.0"
+                 length="12345678"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
